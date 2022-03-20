@@ -23,11 +23,14 @@ Often when I try to explore another language, I find myself trying to draw paral
 ### Syntax
 
 #### Function declaration
+
+**Go**
 ```go
 func (p person) walk() {}
 ```
 
-```typescript
+**TypesScript**
+```ts
 function Walk(p: Person) {}
 ```
 
