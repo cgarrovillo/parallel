@@ -7,7 +7,9 @@ Often when I try to explore another language, I find myself trying to draw paral
 
 <br/>
 
-## Data
+## Languages
+
+### Workflow
 
 | Language | Version Manager | Package Manager |
 | -------- | --------------- | --------------- |
@@ -17,6 +19,17 @@ Often when I try to explore another language, I find myself trying to draw paral
 | Rust |  | cargo |
 
 <br />
+
+### Syntax
+
+#### Function declaration
+```go
+func (p person) walk() {}
+```
+
+```typescript
+function Walk(p: Person) {}
+```
 
 
 ## Contributing
