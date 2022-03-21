@@ -24,16 +24,34 @@ Often when I try to explore another language, I find myself trying to draw paral
 
 #### Function declaration
 
-**Go**
-```go
-func (p person) walk() {}
-```
-
 **TypesScript**
 ```ts
 function Walk(p: Person) {}
 ```
 
+**Go**
+```go
+func (p person) walk() {}
+```
+
+
+<br/>
+
+### Concurrency/Parallelism
+**TypeScript**
+
+Concurrency
+```ts 
+async
+```
+
+```go
+defer
+```
+Executes once surrounding function returns.
+
+<br/>
+<br/>
 
 ## Contributing
 
